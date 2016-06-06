@@ -1,4 +1,4 @@
-# Integrating ad networks into AMP
+# Integrating ad networks into AMP bioo
 
 See also our [ad integration guidelines](../3p/README.md#ads) and [3rd party ads integration guidelines](./integration-guide.md)
 
